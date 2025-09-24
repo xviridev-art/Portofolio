@@ -3,7 +3,7 @@
 import React from 'react';
 
 const Skills = () => {
-  const skillsList = ['React', 'Javascript', 'Node.js', 'Tailwind'];
+  const skillsList = ['React.js', 'Next.js','TypeScript','Nest.js','Solana','Three.js','Bablyon.js','Python', 'Javascript', 'Node.js', 'Tailwind'];
 
   return (
     <div className="flex flex-row flex-wrap gap-3 mt-6 justify-left w-full">

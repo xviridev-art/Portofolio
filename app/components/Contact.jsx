@@ -186,7 +186,7 @@ const Contact = () => {
             <span className="text-white dark:text-gray-200">TOUCH</span>
           </h2>
           <p className="text-xl text-slate-400 dark:text-slate-500 font-cascadia">
-            Mari berkolaborasi dan ciptakan sesuatu yang amazing!
+          Let's work together to create amazing things!
           </p>
           
           {/* Admin Button - positioned top right */}
@@ -223,8 +223,8 @@ const Contact = () => {
                     <FaPaperPlane className="text-white text-xl" />
                   </div>
                   <div>
-                    <h3 className="text-2xl font-bold text-white dark:text-gray-200">Hubungi Saya</h3>
-                    <p className="text-slate-400 dark:text-slate-500">Ada yang ingin didiskusikan? Kirim pesan ke saya!</p>
+                    <h3 className="text-2xl font-bold text-white dark:text-gray-200">Contact me!</h3>
+                    <p className="text-slate-400 dark:text-slate-500">If you have any problems, Let me know!</p>
                   </div>
                 </div>
 

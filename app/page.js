@@ -102,7 +102,7 @@ export default function HomePage() {
                 <div className="w-full h-full flex items-center justify-center">
                   <Image
                     src="/src/assets/images/ZAINFIX.png"
-                    alt="Zain Ahmad Fahrezi"
+                    alt="Oleg Zeng"
                     width={300}
                     height={300}
                     className="rounded-full border-4 border-cyan-400 shadow-[0_0_24px_2px_#00ffdc]"
@@ -153,7 +153,7 @@ export default function HomePage() {
 
         {/* VELOCITY SCROLL */}
         <section className="py-10">
-          <VelocityScroll text="ZAIN AHMAD FAHREZI • FULL STACK DEVELOPER • REACT SPECIALIST • " default_velocity={2} className="font-moderniz text-4xl font-bold text-light-heading dark:text-dark-heading" />
+          <VelocityScroll text="Oleg Zeng • FULL STACK DEVELOPER • REACT SPECIALIST • BackEnd Developer • Python Developer • WebGL developer •" default_velocity={2} className="font-moderniz text-4xl font-bold text-light-heading dark:text-dark-heading" />
         </section>
       </main>
     </div>
